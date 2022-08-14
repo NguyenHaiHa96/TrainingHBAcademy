@@ -13,6 +13,7 @@ namespace DemoList
             List<int> list = new List<int>();
             Console.Write("Nhap so n: ");
             int n = int.Parse(Console.ReadLine());
+
         }
     }
 }
