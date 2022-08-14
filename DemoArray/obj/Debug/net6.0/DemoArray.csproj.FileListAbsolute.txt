@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\bin\Debug\net6.0\DemoArray.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\bin\Debug\net6.0\DemoArray.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\bin\Debug\net6.0\DemoArray.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\bin\Debug\net6.0\DemoArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\bin\Debug\net6.0\DemoArray.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\refint\DemoArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\DemoArray.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoArray\obj\Debug\net6.0\ref\DemoArray.dll

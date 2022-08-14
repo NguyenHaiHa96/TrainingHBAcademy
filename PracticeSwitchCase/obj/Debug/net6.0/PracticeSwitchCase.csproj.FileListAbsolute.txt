@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\bin\Debug\net6.0\PracticeSwitchCase.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\bin\Debug\net6.0\PracticeSwitchCase.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\bin\Debug\net6.0\PracticeSwitchCase.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\bin\Debug\net6.0\PracticeSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\bin\Debug\net6.0\PracticeSwitchCase.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\refint\PracticeSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\PracticeSwitchCase.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeSwitchCase\obj\Debug\net6.0\ref\PracticeSwitchCase.dll

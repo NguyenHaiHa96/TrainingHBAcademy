@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\bin\Debug\net6.0\PracticeStackQueue.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\bin\Debug\net6.0\PracticeStackQueue.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\bin\Debug\net6.0\PracticeStackQueue.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\bin\Debug\net6.0\PracticeStackQueue.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\bin\Debug\net6.0\PracticeStackQueue.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\refint\PracticeStackQueue.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\PracticeStackQueue.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeStackQueue\obj\Debug\net6.0\ref\PracticeStackQueue.dll

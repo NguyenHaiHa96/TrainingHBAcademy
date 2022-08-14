@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\bin\Debug\net6.0\PracticeWhileDoWhile.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\bin\Debug\net6.0\PracticeWhileDoWhile.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\bin\Debug\net6.0\PracticeWhileDoWhile.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\bin\Debug\net6.0\PracticeWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\bin\Debug\net6.0\PracticeWhileDoWhile.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\refint\PracticeWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\PracticeWhileDoWhile.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeWhileDoWhile\obj\Debug\net6.0\ref\PracticeWhileDoWhile.dll

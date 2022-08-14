@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\bin\Debug\net6.0\PracticeList.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\bin\Debug\net6.0\PracticeList.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\bin\Debug\net6.0\PracticeList.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\bin\Debug\net6.0\PracticeList.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\bin\Debug\net6.0\PracticeList.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\refint\PracticeList.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\PracticeList.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeList\obj\Debug\net6.0\ref\PracticeList.dll

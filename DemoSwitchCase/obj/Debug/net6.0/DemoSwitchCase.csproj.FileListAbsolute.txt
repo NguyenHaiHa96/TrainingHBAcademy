@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\bin\Debug\net6.0\DemoSwitchCase.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\bin\Debug\net6.0\DemoSwitchCase.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\bin\Debug\net6.0\DemoSwitchCase.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\bin\Debug\net6.0\DemoSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\bin\Debug\net6.0\DemoSwitchCase.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\refint\DemoSwitchCase.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\DemoSwitchCase.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoSwitchCase\obj\Debug\net6.0\ref\DemoSwitchCase.dll

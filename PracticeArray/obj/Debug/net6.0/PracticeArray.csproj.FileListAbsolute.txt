@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\bin\Debug\net6.0\PracticeArray.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\bin\Debug\net6.0\PracticeArray.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\bin\Debug\net6.0\PracticeArray.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\bin\Debug\net6.0\PracticeArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\bin\Debug\net6.0\PracticeArray.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\refint\PracticeArray.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\PracticeArray.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeArray\obj\Debug\net6.0\ref\PracticeArray.dll

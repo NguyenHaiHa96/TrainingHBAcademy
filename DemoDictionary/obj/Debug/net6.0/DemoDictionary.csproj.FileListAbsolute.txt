@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\bin\Debug\net6.0\DemoDictionary.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\bin\Debug\net6.0\DemoDictionary.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\bin\Debug\net6.0\DemoDictionary.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\bin\Debug\net6.0\DemoDictionary.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\bin\Debug\net6.0\DemoDictionary.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\refint\DemoDictionary.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\DemoDictionary.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoDictionary\obj\Debug\net6.0\ref\DemoDictionary.dll

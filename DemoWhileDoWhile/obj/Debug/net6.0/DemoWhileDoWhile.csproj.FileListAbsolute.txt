@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\bin\Debug\net6.0\DemoWhileDoWhile.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\bin\Debug\net6.0\DemoWhileDoWhile.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\bin\Debug\net6.0\DemoWhileDoWhile.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\bin\Debug\net6.0\DemoWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\bin\Debug\net6.0\DemoWhileDoWhile.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\refint\DemoWhileDoWhile.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\DemoWhileDoWhile.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoWhileDoWhile\obj\Debug\net6.0\ref\DemoWhileDoWhile.dll

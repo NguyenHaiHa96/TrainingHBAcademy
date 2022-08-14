@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\bin\Debug\net6.0\PracticeIfElse.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\bin\Debug\net6.0\PracticeIfElse.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\bin\Debug\net6.0\PracticeIfElse.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\bin\Debug\net6.0\PracticeIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\bin\Debug\net6.0\PracticeIfElse.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\refint\PracticeIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\PracticeIfElse.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\PracticeIfElse\obj\Debug\net6.0\ref\PracticeIfElse.dll

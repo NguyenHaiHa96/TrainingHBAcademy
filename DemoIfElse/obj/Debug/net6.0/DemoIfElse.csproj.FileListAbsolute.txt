@@ -1,0 +1,15 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\bin\Debug\net6.0\DemoIfElse.exe
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\bin\Debug\net6.0\DemoIfElse.deps.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\bin\Debug\net6.0\DemoIfElse.runtimeconfig.json
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\bin\Debug\net6.0\DemoIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\bin\Debug\net6.0\DemoIfElse.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.csproj.CoreCompileInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\refint\DemoIfElse.dll
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.pdb
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\DemoIfElse.genruntimeconfig.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoIfElse\obj\Debug\net6.0\ref\DemoIfElse.dll

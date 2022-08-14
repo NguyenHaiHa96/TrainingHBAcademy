@@ -1,0 +1,5 @@
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoList\obj\Debug\net6.0\DemoList.csproj.AssemblyReference.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoList\obj\Debug\net6.0\DemoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoList\obj\Debug\net6.0\DemoList.AssemblyInfoInputs.cache
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoList\obj\Debug\net6.0\DemoList.AssemblyInfo.cs
+E:\TheLivingDeath\IT\Training HB Academy\Training\TrainingHBAcademy\DemoList\obj\Debug\net6.0\DemoList.csproj.CoreCompileInputs.cache
